@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_conectarse_mysql",
+  "version": "1.0.0",
+  "description": "conectarme a db por primera vez",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alergio",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
